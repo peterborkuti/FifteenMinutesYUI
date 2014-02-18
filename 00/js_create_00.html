@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8"/>
+		<title>15m YUI 00</title>
+	</head>
+	<body>
+		<h1 id="id1">JS Create I</h1>
+
+		<p>Examples written by Peter Borkuti.</p>
+		<div id="container"></div>
+
+		<script type="text/javascript">
+			var e = document.createElement("p");
+			var a = document.createAttribute("class");
+			var t = document.createTextNode("Thanks for w3school.");
+
+			a.nodeValue = "myclass";
+			e.setAttributeNode(a);
+			e.appendChild(t);
+			
+			var b = document.getElementById("container");
+			b.appendChild(e);
+		</script>
+
+	</body>
+</html>
