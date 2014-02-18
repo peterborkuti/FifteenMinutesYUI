@@ -1,5 +1,4 @@
-# Fifteen Minutes YUI
-![15mYUI Logo](../images/15mYUI.png)
+# Fifteen Minutes YUI ![15mYUI Logo](../images/15mYUI.png)
 
 ## 00 - Foundation
 ### JS CRUD in DOM
