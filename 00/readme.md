@@ -19,7 +19,7 @@
 - [ ] [js update](js_update_00.html)
 
 #### JS Delete
-- [ ] [js delete](js_delete_00.html)
+- [x] [js delete](js_delete_00.html)
 
 ### YUI CRUD
 #### YUI Retrieve
