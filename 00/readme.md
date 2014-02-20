@@ -16,10 +16,20 @@
 
 #### JS Update
 
-- [ ] [js update](js_update_00.html)
+- [x] [js update](js_update_00.html)
 
 #### JS Delete
 - [x] [js delete](js_delete_00.html)
+
+#### JS Load
+
+- [x] [js load](js_load_00.html)
+- [x] [js load](js_load_01.html)
+- [x] [js load](js_load_02.html)
+
+#### YUI Load
+
+- [ ] [yui load](yui_load_00.html)
 
 ### YUI CRUD
 #### YUI Retrieve

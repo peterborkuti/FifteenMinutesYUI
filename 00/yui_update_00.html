@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8"/>
+		<title>15m YUI 00_00</title>
+	</head>
+	<body>
+		<h1 id="id1">Head Text</h1>
+
+		<p>Examples written by Peter Borkuti.</p>
+		<p>Thanks for w3cschool.</p>
+
+		<script type="text/javascript">
+			var x=document.getElementById("id1");
+			x.innerHTML = "New Head Text";
+
+			var y=document.getElementsByTagName("p")[0];
+			var n = document.createElement("h2");
+			n.innerText = "Hello";
+			y.parentNode.replaceChild(n, y);
+		</script>
+
+	</body>
+</html>
